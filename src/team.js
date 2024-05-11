@@ -16,9 +16,9 @@ const Team = () => {
       <div className='row'>
         <div className='col-12 col-md-4'>
           <ul>
-            <li className='list-item'>Embark on a Journey with Elite Mentors - IIT Alumni and Top MNC Experts.</li>
-            <li className='list-item'>Experience Doubt-Free Learning from Product Developers.</li>
-            <li className='list-item'>Elevate Your Skills with Expert Masterclasses.</li>
+            <li className='list-item'><i class="fa-solid fa-check-double list-style"></i>Embark on a Journey with Elite Mentors - IIT Alumni and Top MNC Experts.</li>
+            <li className='list-item'><i class="fa-solid fa-check-double list-style"></i>Experience Doubt-Free Learning from Product Developers.</li>
+            <li className='list-item'><i class="fa-solid fa-check-double list-style"></i>Elevate Your Skills with Expert Masterclasses.</li>
           </ul>
         </div>
         <div className='col-12 col-md-4 pics'>
@@ -27,7 +27,7 @@ const Team = () => {
         </div>
         <div className='col-12 col-md-4 founder-name'>
         <p className='bold' style={{textAlign:"center"}}>Mr.SaiRam</p>
-        <p className='bold' style={{marginLeft:"55%"}}>Mr.Saketh</p>
+        <p className='bold' style={{marginLeft:"65%"}}>Mr.Saketh</p>
         </div>
       </div>
     </div>
@@ -36,6 +36,5 @@ const Team = () => {
    </>
  );
 };
-
 
 export default Team;

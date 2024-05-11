@@ -77,3 +77,10 @@
   margin-left: 15%;
   margin-top: 5%;
 }
+
+.list-style{
+  color: #ed2543 ;
+  font-size: 25px;
+  font-weight: bolder;
+  margin-right:3% ;
+}
